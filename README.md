@@ -25,17 +25,17 @@ A simple full stack web application to collect user details through a React form
 
 📂 Project Structure
 --------------------
-fullstack-app/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── node_modules/
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   └── App.css
-│   ├── package.json
-│   └── node_modules/
+fullstack-app/                                                                                                                                                                                                       
+├── backend/                                                                                                                                                                                                       
+│   ├── server.js                                                                                                                                                                                                    
+│   ├── package.json                                                                                                                                                                                                
+│   └── node_modules/                                                                                                                                                                                                
+├── frontend/                                                                                                                                                                                                        
+│   ├── src/                                                                                                                                                                 
+│   │   ├── App.js                                                                                                                                                                                     
+│   │   └── App.css                                                                                                                                                                                             
+│   ├── package.json                                                                                                                                                                                
+│   └── node_modules/                                                                                                                                                             
 
 ---
 
